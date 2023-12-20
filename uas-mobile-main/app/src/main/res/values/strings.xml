@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">M.Fajrin</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="hewan_name">hewan</string>
+    <string name="img">img</string>
+    <string name="hewan_desc">description</string>
+    <string name="keluar">logout</string>
+    <string name="hewwan_description">description</string>
+    <string-array name="data_name">
+        <item>anjing</item>
+        <item>ayam</item>
+        <item>babi</item>
+        <item>Dinosaurus</item>
+        <item>burung</item>
+        <item>burung hantu</item>
+        <item>kambing</item>
+        <item>kucing</item>
+        <item>monyet</item>
+        <item>keledai</item>
+        <item>sapi</item>
+        <item>ular</item>
+        <item>kodok</item>
+        <item>singa</item>
+        <item>anjing</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Anjing adalah mamalia peliharaan yang setia dan ramah. Mereka memiliki berbagai ras dengan sifat dan ukuran yang berbeda, sering dianggap sebagai sahabat manusia yang setia..</item>
+        <item>Ayam adalah burung unggas yang umumnya dipelihara untuk daging dan telur. Mereka memiliki berbagai ras dengan karakteristik yang berbeda.</item>
+        <item>Babi adalah mamalia omnivora yang sering dipelihara untuk daging. Mereka memiliki moncong yang khas dan sering digambarkan sebagai hewan yang gemuk..</item>
+        <item>Dinosaurus adalah kelompok reptil purba yang telah punah. Mereka hidup di Bumi jutaan tahun yang lalu dan memiliki berbagai bentuk dan ukuran, dari herbivora hingga karnivora.</item>
+        <item>Burung adalah kelompok hewan yang memiliki kemampuan terbang. Mereka memiliki berbagai bentuk dan warna bulu serta suara yang unik.</item>
+        <item>Burung hantu adalah burung pemangsa nokturnal yang dikenal dengan kepala berukuran besar dan kemampuan terbang tenang. Mereka sering dihubungkan dengan kebijaksanaan dalam mitologi.</item>
+        <item>Kambing adalah hewan ternak yang dipelihara untuk daging dan susu. Mereka sering dikenal dengan tanduk melingkar dan kebiasaan makan yang mencakup berbagai jenis tanaman.</item>
+        <item>Kucing adalah hewan peliharaan yang popler, dikenal dengan keahlian berburu dan sikap independennya. Ada berbagai ras kucing dengan bulu yang berbeda-beda.</item>
+        <item>monyet adalah primata yang hidup di berbagai bagian dunia. Mereka memiliki keterampilan menggunakan alat, dan beberapa di antaranya hidup dalam kelompok sosial yang kompleks.</item>
+        <item>Keledai adalah mamalia yang sering digunakan sebagai hewan kerja di berbagai wilayah. Mereka dikenal dengan telinga panjang dan suaranya yang khas.</item>
+        <item>Sapi adalah hewan ternak yang umumnya dipelihara untuk daging dan susu. Mereka memiliki peran penting dalam pertanian dan merupakan hewan berkuku genap..</item>
+        <item>Ular adalah reptil tanpa kaki yang dapat beragam ukuran dan racun. Beberapa ular adalah pemangsa aktif, sedangkan yang lainnya bersifat lebih pemalu.</item>
+        <item>Katak adalah amfibi yang hidup di dua habitat, air dan darat. Mereka melewati siklus hidup yang mencakup metamorfosis, mulai dari telur, berubah menjadi berudu, dan kemudian menjadi katak dewasa.</item>
+        <item>Singa adalah salah satu predator terbesar di dunia, dikenal dengan rambut tebal dan melengking. Mereka hidup dalam kelompok sosial yang disebut kawanan dan merupakan simbol kekuatan dan keanggunan di alam liar.</item>
+        <item>Anjing adalah mamalia peliharaan yang setia dan ramah. Mereka memiliki berbagai ras dengan sifat dan ukuran yang berbeda, sering dianggap sebagai sahabat manusia yang setia.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/anjing</item>
+        <item>@drawable/ayam</item>
+        <item>@drawable/babi</item>
+        <item>@drawable/dinosaurus</item>
+        <item>@drawable/burung</item>
+        <item>@drawable/burunghantu</item>
+        <item>@drawable/kambing</item>
+        <item>@drawable/kucing</item>
+        <item>@drawable/monyet</item>
+        <item>@drawable/keledai</item>
+        <item>@drawable/sapi</item>
+        <item>@drawable/ulara</item>
+        <item>@drawable/kodok</item>
+        <item>@drawable/singa</item>
+        <item>@drawable/anjing</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>anjing</item>
+        <item>ayam</item>
+        <item>babi</item>
+        <item>dino</item>
+        <item>burung</item>
+        <item>burunghantu</item>
+        <item>kambing</item>
+        <item>kucing</item>
+        <item>monyet</item>
+        <item>keledai</item>
+        <item>sapi</item>
+        <item>ular</item>
+        <item>katak</item>
+        <item>singa</item>
+        <item>anjing</item>
+    </string-array>
+
+</resources>
